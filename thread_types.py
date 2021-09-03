@@ -1,0 +1,1 @@
+THREAD_TYPES = ["DDOS", "MALWARE", "SCAN"]
